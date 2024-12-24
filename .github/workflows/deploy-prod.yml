@@ -67,6 +67,6 @@ jobs:
         run: |
               aws deploy create-deployment \
                 --application-name Consumer-app \
-                --deployment-group-name Consumer-app-prod-nuclear-parent-service \
+                --deployment-group-name Consumer-app-prod-nucleus-parent-service \
                 --s3-location bucket=code-deploy-livsorted,key=consumer-app-service/nucleus-parent.tar,bundleType=tar \
                 --deployment-config-name CodeDeployDefault.OneAtATime
