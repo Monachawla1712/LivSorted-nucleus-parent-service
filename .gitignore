@@ -1,0 +1,17 @@
+/target/
+/.classpath
+/.pmd
+/.pmdruleset.xml
+/.project
+/.settings/
+/.clover/
+/test-output/
+/bin/
+/.fbExcludeFilterFile
+/.apt_generated/
+/run_deploy.sh
+**/.DS_Store
+/.idea/
+/nucleus-app-boot/src/main/resources/application.yml
+*.iml
+*.diff

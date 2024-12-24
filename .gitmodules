@@ -1,0 +1,20 @@
+[submodule "fos-service"]
+	path = fos-service
+	url = git@github.com:sortedteam/fos-service.git
+	branch = main
+[submodule "survey-service"]
+	path = survey-service
+	url = git@github.com:sortedteam/survey-service.git
+	branch = main
+[submodule "collection-service"]
+	path = collection-service
+	url = git@github.com:sortedteam/collection-service.git
+	branch = main
+[submodule "ticket-service"]
+	path = ticket-service
+	url = git@github.com:sortedteam/ticket-service.git
+	branch = main
+[submodule "widget-service"]
+	path = widget-service
+	url = git@github.com:sortedteam/widget-service.git
+	branch = main
